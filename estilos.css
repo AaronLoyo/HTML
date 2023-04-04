@@ -1,46 +1,23 @@
-p.PAPYRUStext {
-    font-family: papyrus;
-    font-size: 40px;
-    color: white;
+p{
+    color: azure;
+    font-family: wingdings;
+    font-size: 30px;
 }
 
-h1.PAPYRUStitle {
-    font-family: papyrus;
-    font-size: 40px;
-    color: white;
+h1 {
+    color: aliceblue;
+    font-family: wingdings;
 }
 
-h2.PAPYRUSsubtitle {
-    font-family: papyrus;
-    font-size: 40px;
-    color: white;
-}
-p.heheheTEXT {
-    font-family: comic-sans;
-    font-size: 20px;
-    color: white;
-}
-
-h1.heheheTITLE {
-    font-family: comic-sans;
-    font-size: 40px;
-    color: white;
-}
-
-h2.heheheSUBTITLE {
-    font-family: comic-sans;
-    font-size: 40px;
-    color: white;
-}
-
-header.Cabecera {
-    size: 200px;
+body.gg {
     background-color: black;
-    padding: 200px;
-    border-top: 200px;
-    border-width: 200px;
 }
 
-* {
-    border-radius: 300px;
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    background-color: black;
 }
